@@ -1,5 +1,5 @@
 @font-face {
-   font-family: "Roboto-Regular" sans-serif;
+   font-family: "Roboto-Regular", sans-serif;
    src: url("../fonts/Roboto-Regular.woff2") format("woff2"), url("../fonts/Roboto-Regular.woff") format("woff");
    font-weight: 400;
    font-display: swep;
@@ -17,14 +17,15 @@
    font-display: swep;
 }
 @font-face {
-   font-family: "Raleway-Bold", sans-serif;
-   src: url("../fonts/Raleway-Bold.woff") format("woff"), url("../fonts/Raleway-Bold.woff2") format("woff2");
-   font-weight: 700;
-   font-display: swep;
-}
-@font-face {
    font-family: "Lato-Regular", sans-serif;
    src: url("../fonts/Lato-Regular.woff") format("woff"), url("../fonts/Lato-Regular.woff2") format("woff2");
    font-weight: 400;
    font-display: swep;
 }
+@font-face {
+   font-family: "Raleway-Bold", sans-serif;
+   src: url("../fonts/Raleway-Bold.woff") format("woff"), url("../fonts/Raleway-Bold.woff2") format("woff2");
+   font-weight: 700;
+   font-display: swep;
+}
+
